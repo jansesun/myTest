@@ -1,0 +1,12 @@
+{
+  "name": "myTest",
+  "version": "0.0.1",
+  "description": "just for test",
+  "main": "src/test.js",
+  "keywords": [
+    "test"
+  ],
+  "author": "jansesun",
+  "license": "MIT",
+  "dependencies": {}
+}
